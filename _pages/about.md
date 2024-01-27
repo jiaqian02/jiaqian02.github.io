@@ -14,7 +14,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-Hi! I am Jiaqian, a junior student in the Deparmtent of Compuater Science, at Columbia University. I am from a joint bachelor degree program with City University of Hong Kong.
+Hi! I am Jiaqian, a junior student in the Deparmtent of Computer Science, at Columbia University. I am from a joint bachelor degree program with City University of Hong Kong.
 
 My intrests lie in computational complexity and game theory. I am fortunate to be supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/).
 
